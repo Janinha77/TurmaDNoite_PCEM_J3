@@ -19,3 +19,8 @@ body {
     color: rgb(188, 10, 108);
     font-size: 20px;
 }
+.titulo{
+    text-align:center;
+    background-image: linear-gradient(#FF00FF,#DA70D6);
+    color:#C71585 ;
+}
