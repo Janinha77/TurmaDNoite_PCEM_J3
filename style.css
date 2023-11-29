@@ -43,6 +43,7 @@ header{
    color: rgb(188, 10, 108);
 
 }
-.cabecalho-item {
-    font-display: inline-b
+ul li {
+    font-display: inline-block;
+    margin-right: ;
 }
