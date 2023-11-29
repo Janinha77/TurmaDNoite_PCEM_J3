@@ -43,11 +43,3 @@ header{
    color: rgb(188, 10, 108);
 
 }
-ul {
-    padding: 0;
-    list-style: none;
-}
-ul li {
-    font-display: inline-block;
-    margin-right:10px ;
-}
