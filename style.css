@@ -2,6 +2,25 @@ body {
 
     background-color:#FFC0CB;
 }
+
+header{
+    padding: 10px;
+    background-color:#FF00FF;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    color:rgb(63, 3, 43);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.cabecalho-imagem {
+    width:10%;
+    height: 10%;
+    padding: 5px;
+    background-color: #FF00FF;
+    margin: 20px;
+    border-radius: 10px;
+}
 #banner {
     width: 50%;
     margin:20px;
@@ -21,23 +40,7 @@ body {
     text-align:center;
     color:#C71585 ;
 }
-header{
-    padding: 10px;
-    background-color:#FF00FF;
-    border-bottom: 2px solid black;
-    font-size: 20px;
-    color:rgb(63, 3, 43);
-    display: flex;
-    justify-content: space-around;
-    
-}
-.cabecalho-imagem {
-    width:10%;
-    height: 10%;
-    padding: 5px;
-    background-color: #FF00FF;
-    margin: 20px;
-    border-radius: 10px;
+
 }
 .lista {
    color: rgb(188, 10, 108);
